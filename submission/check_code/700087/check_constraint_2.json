@@ -1,0 +1,6 @@
+{
+  "max_calls_per_tool": {
+    "derive_token": 1,
+    "apply_token": 1
+  }
+}

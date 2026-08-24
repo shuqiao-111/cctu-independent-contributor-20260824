@@ -1,0 +1,8 @@
+{
+  "order_constraints": [
+    [
+      "derive_token",
+      "apply_token"
+    ]
+  ]
+}

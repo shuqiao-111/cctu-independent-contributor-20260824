@@ -1,26 +1,25 @@
 {
+  "reportVersion": "cctu-independent-contributor-validity-v3",
   "status": "passed",
   "hardGate": {
     "status": "passed"
   },
   "sourceRun": {
-    "id": "cctu-candidate-local-audit-20260824-v1-official-format",
-    "inputSha256": "a942e4485ff0c0f1518d5391b8ff4e4cffaa7825980af2f988116685e169d93a"
+    "id": "cctu-independent-mechanism-v3-20260824-001",
+    "inputSha256": "6d8c996668989bdf36780495975f2bb2d742ea06ae12f07a0044f42fdc4a13bd"
   },
   "sampleCount": 124,
-  "officialCctu": {
+  "officialEstimator": {
     "status": "passed",
-    "commit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6",
-    "replayReport": "official-replay-report.json",
-    "summary": {
-      "passed": true,
-      "officialSrPsrPassCount": 124,
-      "checkerReplayPassCount": 124,
-      "sameOfficialEstimator": true,
-      "providerCalled": false
-    }
+    "srPassCount": 124,
+    "psrPassCount": 124,
+    "upstreamCommit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6",
+    "scoreFile": "official-evaluation-score.json"
   },
-  "release": {
-    "status": "pending-contributor-signature-and-immutable-https-release"
-  }
+  "checkerReplay": {
+    "status": "passed",
+    "passCount": 124,
+    "reportFile": "official-replay-report.json"
+  },
+  "providerCalled": false
 }

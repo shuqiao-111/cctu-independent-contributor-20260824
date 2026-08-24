@@ -1,6 +1,5 @@
 {
-  "reportVersion": "cctu-independent-contributor-disclosure-v2",
-  "reviewStatus": "completed-by-contributor",
+  "reportVersion": "cctu-independent-contributor-disclosure-v3",
   "contributor": {
     "name": "jiarui zhao",
     "affiliation": "Independent contributor",
@@ -8,13 +7,13 @@
   },
   "signedName": "jiarui zhao",
   "signedDate": "2026-08-24",
+  "conflictsOfInterest": "No conflicts of interest declared.",
   "attestations": {
-    "licenseAndReleaseAuthorityConfirmed": true,
+    "tasksDesignedIndependently": true,
+    "notDerivedFromHistoricalCctuTasks": true,
+    "notDerivedFromAuthorConstructedExtensions": true,
     "noAccessToPrivateStudyResults": true,
     "noCredentialsOrNetworkDependencies": true,
-    "notDerivedFromAuthorConstructedExtensions": true,
-    "notDerivedFromHistoricalCctuTasks": true,
-    "tasksDesignedIndependently": true
-  },
-  "conflictsOfInterest": "No conflicts of interest declared."
+    "licenseAndReleaseAuthorityConfirmed": true
+  }
 }

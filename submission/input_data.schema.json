@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CCTU-compatible task row",
+  "type": "object",
+  "additionalProperties": true,
+  "required": [
+    "id",
+    "messages",
+    "tools",
+    "constraints_list",
+    "answer"
+  ],
+  "properties": {
+    "id": {
+      "type": [
+        "string",
+        "integer"
+      ]
+    },
+    "messages": {
+      "type": "array",
+      "minItems": 1
+    },
+    "tools": {},
+    "constraints_list": {},
+    "answer": {}
+  }
+}
