@@ -1,0 +1,17 @@
+{
+  "sourceId": "cctu-official-format-candidate-20260824",
+  "sourceUri": "https://github.com/shuqiao-111/cctu-independent-contributor-20260824/releases/tag/cctu-independent-contributor-v1",
+  "sourceRevision": "cctu-independent-contributor-v1",
+  "license": "CC-BY-4.0",
+  "inputSha256": "a942e4485ff0c0f1518d5391b8ff4e4cffaa7825980af2f988116685e169d93a",
+  "sampleCount": 124,
+  "contributorId": "mailto:zhaojr24@jlu.edu.cn",
+  "publisherId": "study-author-github:shuqiao-111",
+  "publisherRole": "byte-preserving-host-only",
+  "officialEvaluator": {
+    "repository": "https://github.com/Junjie-Ye/CCTU",
+    "commit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6",
+    "license": "Apache-2.0"
+  },
+  "provenanceStatus": "released-at-immutable-tag"
+}

@@ -1,0 +1,20 @@
+{
+  "reportVersion": "cctu-independent-contributor-disclosure-v2",
+  "reviewStatus": "completed-by-contributor",
+  "contributor": {
+    "name": "jiarui zhao",
+    "affiliation": "Independent contributor",
+    "contact": "mailto:zhaojr24@jlu.edu.cn"
+  },
+  "signedName": "jiarui zhao",
+  "signedDate": "2026-08-24",
+  "attestations": {
+    "licenseAndReleaseAuthorityConfirmed": true,
+    "noAccessToPrivateStudyResults": true,
+    "noCredentialsOrNetworkDependencies": true,
+    "notDerivedFromAuthorConstructedExtensions": true,
+    "notDerivedFromHistoricalCctuTasks": true,
+    "tasksDesignedIndependently": true
+  },
+  "conflictsOfInterest": "No conflicts of interest declared."
+}

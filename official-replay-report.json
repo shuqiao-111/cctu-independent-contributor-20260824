@@ -1,0 +1,17 @@
+{
+  "reportVersion": "cgel-v11-cctu-extension-v3-golden-verifier-v1",
+  "passed": true,
+  "failures": [],
+  "sampleCount": 124,
+  "officialSrPsrPassCount": 124,
+  "checkerReplayPassCount": 124,
+  "sameOfficialEstimator": true,
+  "inputSha256": "a942e4485ff0c0f1518d5391b8ff4e4cffaa7825980af2f988116685e169d93a",
+  "goldenResponseSha256": "46c453905cf5160580de8488a2c5a9c8b5168133777802e880f60d58c7966878",
+  "providerCalled": false,
+  "eligibleForConfirmation": false,
+  "independentPopulationEligible": false,
+  "confirmationClaimsCount": 0,
+  "paperComparable": false,
+  "claimBoundary": "provider-free golden replay only; no experiment outcome"
+}

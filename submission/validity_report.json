@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "hardGate": {
+    "status": "passed"
+  },
+  "sourceRun": {
+    "id": "cctu-candidate-local-audit-20260824-v1-official-format",
+    "inputSha256": "a942e4485ff0c0f1518d5391b8ff4e4cffaa7825980af2f988116685e169d93a"
+  },
+  "sampleCount": 124,
+  "officialCctu": {
+    "status": "passed",
+    "commit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6",
+    "replayReport": "official-replay-report.json",
+    "summary": {
+      "passed": true,
+      "officialSrPsrPassCount": 124,
+      "checkerReplayPassCount": 124,
+      "sameOfficialEstimator": true,
+      "providerCalled": false
+    }
+  },
+  "release": {
+    "status": "pending-contributor-signature-and-immutable-https-release"
+  }
+}
