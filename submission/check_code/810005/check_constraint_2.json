@@ -1,0 +1,8 @@
+{
+  "order_constraints": [
+    [
+      "catalog_entry",
+      "confirm_catalog_entry"
+    ]
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "max_calls_per_tool": {
+    "measure_north_gate": 1,
+    "measure_south_gate": 1,
+    "accept_gate_pair": 1
+  }
+}

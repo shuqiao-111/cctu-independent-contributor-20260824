@@ -1,0 +1,7 @@
+{
+  "max_calls_per_tool": {
+    "mint_access_pass": 1,
+    "check_access_pass": 1,
+    "activate_access_pass": 1
+  }
+}

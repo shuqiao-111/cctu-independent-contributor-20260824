@@ -1,0 +1,12 @@
+{
+  "order_constraints": [
+    [
+      "measure_north_gate",
+      "accept_gate_pair"
+    ],
+    [
+      "measure_south_gate",
+      "accept_gate_pair"
+    ]
+  ]
+}

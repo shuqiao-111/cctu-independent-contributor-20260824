@@ -1,0 +1,7 @@
+{
+  "max_calls_per_tool": {
+    "prepare_envelope": 1,
+    "prepare_envelopes": 1,
+    "seal_envelope": 1
+  }
+}

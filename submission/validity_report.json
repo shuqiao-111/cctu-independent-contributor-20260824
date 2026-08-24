@@ -5,8 +5,8 @@
     "status": "passed"
   },
   "sourceRun": {
-    "id": "cctu-independent-mechanism-v3-20260824-001",
-    "inputSha256": "6d8c996668989bdf36780495975f2bb2d742ea06ae12f07a0044f42fdc4a13bd"
+    "id": "cctu-independent-r2-20260824-001",
+    "inputSha256": "c64d76c4d6e52dfecc39e92165adb0807cd5bf8fea6a045da80dab2e03a28995"
   },
   "sampleCount": 124,
   "officialEstimator": {

@@ -1,0 +1,7 @@
+{
+  "max_calls_per_tool": {
+    "catalog_entry": 1,
+    "catalog_entries": 1,
+    "confirm_catalog_entry": 1
+  }
+}
