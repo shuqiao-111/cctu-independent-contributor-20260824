@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "pack_crate": 1,
+    "pack_crates": 1,
+    "label_crate": 1,
+    "establish_revision": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "issue_grant": 1,
+    "inspect_grant": 1,
+    "enable_grant": 1,
+    "establish_labels": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "order_constraints": [
+    [
+      "locate_asset",
+      "verify_asset"
+    ],
+    [
+      "establish_revision",
+      "locate_asset"
+    ]
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "order_constraints": [
-    [
-      "prepare_envelope",
-      "seal_envelope"
-    ]
-  ]
-}

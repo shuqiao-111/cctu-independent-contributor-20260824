@@ -1,0 +1,13 @@
+{
+  "order_constraints": [
+    [
+      "issue_grant",
+      "inspect_grant",
+      "enable_grant"
+    ],
+    [
+      "establish_safety_mode",
+      "issue_grant"
+    ]
+  ]
+}

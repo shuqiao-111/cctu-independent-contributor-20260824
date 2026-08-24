@@ -1,25 +1,34 @@
 {
-  "reportVersion": "cctu-independent-contributor-validity-v3",
+  "reportVersion": "cctu-independent-contributor-validity-v4",
   "status": "passed",
   "hardGate": {
     "status": "passed"
   },
   "sourceRun": {
-    "id": "cctu-independent-r2-opportunity-20260824-001",
-    "inputSha256": "c64d76c4d6e52dfecc39e92165adb0807cd5bf8fea6a045da80dab2e03a28995"
+    "id": "cctu-independent-r3-20260824-001",
+    "inputSha256": "bdb2c8ed542bc322b3f9527ab51ff5f9149826ebb2b4bf1c3ff68845888bb662"
   },
-  "sampleCount": 124,
+  "sampleCount": 180,
+  "feasibilityCount": 30,
+  "mainReserveCount": 150,
   "officialEstimator": {
     "status": "passed",
-    "srPassCount": 124,
-    "psrPassCount": 124,
+    "srPassCount": 180,
+    "psrPassCount": 180,
     "upstreamCommit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6",
     "scoreFile": "official-evaluation-score.json"
   },
   "checkerReplay": {
     "status": "passed",
-    "passCount": 124,
+    "passCount": 180,
     "reportFile": "official-replay-report.json"
   },
-  "providerCalled": false
+  "providerCalled": false,
+  "confirmationClaimsCount": 0,
+  "capacityAudit": {
+    "status": "passed",
+    "invalidRejectedCount": 180,
+    "correctedAcceptedCount": 180,
+    "distinctStaticErrorCategoryCount": 6
+  }
 }

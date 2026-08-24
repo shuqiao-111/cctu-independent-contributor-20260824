@@ -1,0 +1,36 @@
+{
+  "reportVersion": "r3-pre-provider-design-audit-v1",
+  "status": "passed",
+  "checks": {
+    "uniqueNumericIds": true,
+    "balancedSixFamilies": true,
+    "toolCountTwoToFour": true,
+    "minimumFourPublicConstraints": true,
+    "fiveStructuralFingerprintsPerFamily": true,
+    "thirtyUniquePromptsPerFamily": true,
+    "disjointFeasibilityAndReserve": true,
+    "balancedFeasibility": true
+  },
+  "sampleCount": 180,
+  "familyCount": 6,
+  "structuralFingerprintCounts": {
+    "distractor_selection": 5,
+    "nested_type_violation": 5,
+    "sequential_dependency": 5,
+    "atomic_parallel": 5,
+    "public_fallback": 5,
+    "conflict_safe_reject": 5
+  },
+  "uniquePromptsPerFamily": {
+    "distractor_selection": 30,
+    "nested_type_violation": 30,
+    "sequential_dependency": 30,
+    "atomic_parallel": 30,
+    "public_fallback": 30,
+    "conflict_safe_reject": 30
+  },
+  "providerCalled": false,
+  "providerAuthorized": false,
+  "confirmationClaimsCount": 0,
+  "claimBoundary": "static mechanism capacity only; no model opportunity labels or experimental claim"
+}

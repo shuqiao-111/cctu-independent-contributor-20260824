@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "open_case": 1,
+    "publish_case": 1,
+    "fallback_case": 1,
+    "establish_context": 1
+  }
+}

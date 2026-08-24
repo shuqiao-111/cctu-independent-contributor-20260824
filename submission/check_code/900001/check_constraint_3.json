@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "locate_asset": 1,
+    "locate_assets": 1,
+    "verify_asset": 1,
+    "establish_revision": 1
+  }
+}

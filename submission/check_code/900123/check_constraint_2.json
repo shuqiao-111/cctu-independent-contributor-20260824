@@ -1,0 +1,13 @@
+{
+  "order_constraints": [
+    [
+      "open_case",
+      "publish_case",
+      "fallback_case"
+    ],
+    [
+      "establish_labels",
+      "open_case"
+    ]
+  ]
+}

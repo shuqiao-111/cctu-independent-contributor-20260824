@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "inspect_policy": 1,
+    "request_change": 1,
+    "safe_reject": 1,
+    "establish_context": 1
+  }
+}

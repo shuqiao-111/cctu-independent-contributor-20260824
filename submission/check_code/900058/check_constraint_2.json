@@ -1,0 +1,12 @@
+{
+  "order_constraints": [
+    [
+      "pack_crate",
+      "label_crate"
+    ],
+    [
+      "establish_labels",
+      "pack_crate"
+    ]
+  ]
+}

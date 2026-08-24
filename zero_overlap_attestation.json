@@ -1,0 +1,8 @@
+{
+  "reportVersion": "r3-contributor-disjointness-attestation-v1",
+  "newNumericIdRange": "900000-900179",
+  "inputHashNovel": true,
+  "historicalTaskCorpusConsulted": false,
+  "semanticOverlapVerification": "pending-receiving-side-intake",
+  "providerCalled": false
+}

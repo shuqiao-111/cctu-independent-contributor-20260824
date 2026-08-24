@@ -1,8 +1,0 @@
-{
-  "parallel_groups": [
-    [
-      "measure_north_gate",
-      "measure_south_gate"
-    ]
-  ]
-}

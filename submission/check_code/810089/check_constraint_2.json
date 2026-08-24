@@ -1,9 +1,0 @@
-{
-  "order_constraints": [
-    [
-      "mint_access_pass",
-      "check_access_pass",
-      "activate_access_pass"
-    ]
-  ]
-}

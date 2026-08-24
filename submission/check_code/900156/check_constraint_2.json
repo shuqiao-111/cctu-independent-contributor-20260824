@@ -1,0 +1,13 @@
+{
+  "order_constraints": [
+    [
+      "inspect_policy",
+      "request_change",
+      "safe_reject"
+    ],
+    [
+      "establish_revision",
+      "inspect_policy"
+    ]
+  ]
+}

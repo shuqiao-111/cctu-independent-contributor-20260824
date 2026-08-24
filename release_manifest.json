@@ -1,0 +1,14 @@
+{
+  "reportVersion": "r3-frozen-release-manifest-v1",
+  "inputSha256": "bdb2c8ed542bc322b3f9527ab51ff5f9149826ebb2b4bf1c3ff68845888bb662",
+  "capacityReportSha256": "da3c07a8c7287b345963915ca591ef1afe1483576c1ce83dd388e6d23a7a3424",
+  "goldenResponsesSha256": "43f2fc27655c749089d50a161e4bbf845daabf40d3e74c0e825230af6ed31620",
+  "officialReplayReportSha256": "30503167bf8eb2665c0038c3bb1436bc24d95d9a98c4a36964eda0bde1de773e",
+  "feasibilityManifestSha256": "40f214fc44e39999d0581d5819cabd475d9fa01f4eb55bbbb7544a199102ff78",
+  "sampleCount": 180,
+  "feasibilityCount": 30,
+  "mainReserveCount": 150,
+  "providerCalled": false,
+  "providerAuthorized": false,
+  "confirmationClaimsCount": 0
+}

@@ -1,0 +1,16 @@
+{
+  "order_constraints": [
+    [
+      "scan_x",
+      "commit_pair"
+    ],
+    [
+      "scan_y",
+      "commit_pair"
+    ],
+    [
+      "establish_labels",
+      "scan_x"
+    ]
+  ]
+}

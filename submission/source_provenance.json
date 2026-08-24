@@ -1,12 +1,15 @@
 {
-  "sourceId": "cctu-independent-r2-20260824",
-  "sourceUri": "https://github.com/shuqiao-111/cctu-independent-contributor-20260824/releases/tag/cctu-independent-r2-opportunity-v2",
-  "sourceRevision": "cctu-independent-r2-opportunity-v2",
+  "sourceId": "cctu-independent-r3-20260824",
+  "sourceUri": "https://github.com/shuqiao-111/cctu-independent-contributor-20260824/releases/tag/cctu-independent-r3",
+  "sourceRevision": "cctu-independent-r3",
   "license": "CC-BY-4.0",
-  "inputSha256": "c64d76c4d6e52dfecc39e92165adb0807cd5bf8fea6a045da80dab2e03a28995",
-  "sampleCount": 124,
-  "sourceRunId": "cctu-independent-r2-opportunity-20260824-001",
+  "inputSha256": "bdb2c8ed542bc322b3f9527ab51ff5f9149826ebb2b4bf1c3ff68845888bb662",
+  "sampleCount": 180,
+  "sourceRunId": "cctu-independent-r3-20260824-001",
   "contributorId": "mailto:zhaojr24@jlu.edu.cn",
   "publisherId": "study-author-github:shuqiao-111",
-  "publisherRole": "byte-preserving-host-only"
+  "publisherRole": "byte-preserving-host-only",
+  "officialEvaluator": {
+    "commit": "0b4e3253b08fa2befbe38c4d426441506b95c9b6"
+  }
 }

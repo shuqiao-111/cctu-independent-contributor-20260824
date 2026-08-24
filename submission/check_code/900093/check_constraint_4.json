@@ -1,0 +1,8 @@
+{
+  "max_calls_per_tool": {
+    "scan_x": 1,
+    "scan_y": 1,
+    "commit_pair": 1,
+    "establish_labels": 1
+  }
+}

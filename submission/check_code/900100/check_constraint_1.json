@@ -1,0 +1,8 @@
+{
+  "parallel_groups": [
+    [
+      "scan_x",
+      "scan_y"
+    ]
+  ]
+}
