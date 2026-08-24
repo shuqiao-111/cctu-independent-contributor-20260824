@@ -5,12 +5,19 @@
   "providerCalled": false,
   "containsModelResults": false,
   "containsArmLabels": false,
+  "stableOpportunityCategoryCoverage": {
+    "tool_order_violation": 62,
+    "nested_type_violation": 31,
+    "atomic_parallel_violation": 31
+  },
+  "distinctErrorCategoryCount": 3,
   "tasks": [
     {
       "taskId": "810000",
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -111,6 +118,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -211,6 +219,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -311,6 +320,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -411,6 +421,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -511,6 +522,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -611,6 +623,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -711,6 +724,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -811,6 +825,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -911,6 +926,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1011,6 +1027,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1111,6 +1128,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1211,6 +1229,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1311,6 +1330,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1411,6 +1431,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1511,6 +1532,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1611,6 +1633,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1711,6 +1734,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1811,6 +1835,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -1911,6 +1936,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2011,6 +2037,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2111,6 +2138,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2211,6 +2239,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2311,6 +2340,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2411,6 +2441,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2511,6 +2542,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2611,6 +2643,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2711,6 +2744,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2811,6 +2845,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -2911,6 +2946,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3011,6 +3047,7 @@
       "families": [
         "distractor_tools"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3111,6 +3148,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3127,19 +3165,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810031b",
+                "id": "c810031x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-500\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-500\",\"fragile\":false,\"weight\":\"3\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810031b",
-            "content": "sealed:LOT-500"
+            "tool_call_id": "c810031x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3201,7 +3239,7 @@
         ]
       },
       "goldenTrajectorySha256": "7c9cd8c220a04bfb7f7decea88f1c8da3897738125f1ac7ab366584562392bec",
-      "invalidCounterTrajectorySha256": "cd791edc5e1dfaa1a5a44a1f94affefc82aadb0e1fc79a814e882a53f7be2bb7",
+      "invalidCounterTrajectorySha256": "c1cce7b17ea539b89324f3c859275b3461bc59241ccacf6238b54d7f3455de5c",
       "correctedTrajectorySha256": "7c9cd8c220a04bfb7f7decea88f1c8da3897738125f1ac7ab366584562392bec",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3211,6 +3249,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3227,19 +3266,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810032b",
+                "id": "c810032x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-501\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-501\",\"fragile\":true,\"weight\":\"4\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810032b",
-            "content": "sealed:LOT-501"
+            "tool_call_id": "c810032x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3301,7 +3340,7 @@
         ]
       },
       "goldenTrajectorySha256": "a4447ca4666d24baf35c635a19c04f57d16b303318e7577ec6b91278d317e1b3",
-      "invalidCounterTrajectorySha256": "278fbf1f4aa8fe6251aa951b577367b61e7be62b578b28e32bc55f06d3d9ce4e",
+      "invalidCounterTrajectorySha256": "3d6c20954886abf4439ff01087b7b4333de75ae2295b9c36507b696e3b0a5539",
       "correctedTrajectorySha256": "a4447ca4666d24baf35c635a19c04f57d16b303318e7577ec6b91278d317e1b3",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3311,6 +3350,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3327,19 +3367,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810033b",
+                "id": "c810033x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-502\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-502\",\"fragile\":false,\"weight\":\"5\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810033b",
-            "content": "sealed:LOT-502"
+            "tool_call_id": "c810033x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3401,7 +3441,7 @@
         ]
       },
       "goldenTrajectorySha256": "4173e1facd9a38077f83fd4450fde80b55c79c22fcad4b0f2addf2c16e4a0a7d",
-      "invalidCounterTrajectorySha256": "aab3fcda81a9275837ad49bc63ccb4bb559895eec2b2c32043d6288ee909f848",
+      "invalidCounterTrajectorySha256": "c376cfcbcd28be69824a468b95956f34879046262cff6d859dbd243d01889ae2",
       "correctedTrajectorySha256": "4173e1facd9a38077f83fd4450fde80b55c79c22fcad4b0f2addf2c16e4a0a7d",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3411,6 +3451,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3427,19 +3468,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810034b",
+                "id": "c810034x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-503\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-503\",\"fragile\":true,\"weight\":\"6\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810034b",
-            "content": "sealed:LOT-503"
+            "tool_call_id": "c810034x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3501,7 +3542,7 @@
         ]
       },
       "goldenTrajectorySha256": "d6c40a5d3ff6bb5d4bfc7646fe42ad9c73117da1f3dcb3e1e31e245d53df2bef",
-      "invalidCounterTrajectorySha256": "cd1fc659d10e7bc85196ca8b0113667c6f7c83d1b6e129d50dddf23b6be876da",
+      "invalidCounterTrajectorySha256": "a788833913ffc5cdf9d0372473e5a51670aec01863aba370054ae06e938a6ee8",
       "correctedTrajectorySha256": "d6c40a5d3ff6bb5d4bfc7646fe42ad9c73117da1f3dcb3e1e31e245d53df2bef",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3511,6 +3552,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3527,19 +3569,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810035b",
+                "id": "c810035x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-504\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-504\",\"fragile\":false,\"weight\":\"7\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810035b",
-            "content": "sealed:LOT-504"
+            "tool_call_id": "c810035x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3601,7 +3643,7 @@
         ]
       },
       "goldenTrajectorySha256": "8a1a1155a9ef276f5f4707cd509a8e3d1d24186495ede69682b23e8a051a00c6",
-      "invalidCounterTrajectorySha256": "72b878688efbc6b89abc3cce520357a536704a0cdcdad6526b8a08979e3c3528",
+      "invalidCounterTrajectorySha256": "c04a6d8ed0d2fa42aa52033f41b6d1f49e0395b9b9b6be2d2f067752081ae4dc",
       "correctedTrajectorySha256": "8a1a1155a9ef276f5f4707cd509a8e3d1d24186495ede69682b23e8a051a00c6",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3611,6 +3653,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3627,19 +3670,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810036b",
+                "id": "c810036x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-505\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-505\",\"fragile\":true,\"weight\":\"8\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810036b",
-            "content": "sealed:LOT-505"
+            "tool_call_id": "c810036x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3701,7 +3744,7 @@
         ]
       },
       "goldenTrajectorySha256": "654f399bb62ab3a36f678a59744e50851eb100b613eee0130a2f55b5271b5eec",
-      "invalidCounterTrajectorySha256": "b2949a40b601ea33f1d32147b34cba1ce06a2b142fbd80a8e52f146b022cc701",
+      "invalidCounterTrajectorySha256": "c623237e69b11f9394aba2a1d84cfb48689f2056be2acf34687e99f9f853de3b",
       "correctedTrajectorySha256": "654f399bb62ab3a36f678a59744e50851eb100b613eee0130a2f55b5271b5eec",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3711,6 +3754,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3727,19 +3771,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810037b",
+                "id": "c810037x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-506\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-506\",\"fragile\":false,\"weight\":\"9\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810037b",
-            "content": "sealed:LOT-506"
+            "tool_call_id": "c810037x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3801,7 +3845,7 @@
         ]
       },
       "goldenTrajectorySha256": "f4de9a2204160b40835219a1d4574c499b3c7e10e83a07a78f86c9186cbaa456",
-      "invalidCounterTrajectorySha256": "346895c0171fb09fe5e06128311044602fb66edcb39bd3f8173e439b2fe23801",
+      "invalidCounterTrajectorySha256": "66b430e4a96d5f40c0732c88cfd923766ee6e0eabf88ca76b1c7493e9a31b553",
       "correctedTrajectorySha256": "f4de9a2204160b40835219a1d4574c499b3c7e10e83a07a78f86c9186cbaa456",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3811,6 +3855,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3827,19 +3872,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810038b",
+                "id": "c810038x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-507\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-507\",\"fragile\":true,\"weight\":\"10\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810038b",
-            "content": "sealed:LOT-507"
+            "tool_call_id": "c810038x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -3901,7 +3946,7 @@
         ]
       },
       "goldenTrajectorySha256": "371612934ad3c3152f7115981e6c9493cd8120a33d4d5ff6ca85ce7990563c8d",
-      "invalidCounterTrajectorySha256": "cd6e954970f8b2c75159d1db9a8724860c5e999fd1ed374e61f6ad1a4ce7bcde",
+      "invalidCounterTrajectorySha256": "822a3ce87bd3c1d06983e73e704031337245579165753bf128a362063ee3c908",
       "correctedTrajectorySha256": "371612934ad3c3152f7115981e6c9493cd8120a33d4d5ff6ca85ce7990563c8d",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -3911,6 +3956,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -3927,19 +3973,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810039b",
+                "id": "c810039x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-508\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-508\",\"fragile\":false,\"weight\":\"11\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810039b",
-            "content": "sealed:LOT-508"
+            "tool_call_id": "c810039x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4001,7 +4047,7 @@
         ]
       },
       "goldenTrajectorySha256": "1cfcc9be74f805e1eff4321198dbb0e307dbbf4736d0862bbcddd5110dc83585",
-      "invalidCounterTrajectorySha256": "776c0f461b15c7d9079266a9c6b774bb86dcbe3d551bfd432a59198a2c38df88",
+      "invalidCounterTrajectorySha256": "996cdb5739fc57b413db3c94a3341c67460b0314df6b6513ef4f219181c4521f",
       "correctedTrajectorySha256": "1cfcc9be74f805e1eff4321198dbb0e307dbbf4736d0862bbcddd5110dc83585",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4011,6 +4057,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4027,19 +4074,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810040b",
+                "id": "c810040x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-509\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-509\",\"fragile\":true,\"weight\":\"12\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810040b",
-            "content": "sealed:LOT-509"
+            "tool_call_id": "c810040x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4101,7 +4148,7 @@
         ]
       },
       "goldenTrajectorySha256": "10449607a55b1f2cba4120bfed7736c32099310fcbc5ccc947880b9c0507e138",
-      "invalidCounterTrajectorySha256": "3fc524058aebfd72f33b657822e3d2b597380d45058374b08a4ab9b1ec20d6cf",
+      "invalidCounterTrajectorySha256": "e05fd1421cc74715f154087cca9e828a07dc90115bd02fcbd38f7af131bb1976",
       "correctedTrajectorySha256": "10449607a55b1f2cba4120bfed7736c32099310fcbc5ccc947880b9c0507e138",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4111,6 +4158,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4127,19 +4175,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810041b",
+                "id": "c810041x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-510\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-510\",\"fragile\":false,\"weight\":\"13\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810041b",
-            "content": "sealed:LOT-510"
+            "tool_call_id": "c810041x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4201,7 +4249,7 @@
         ]
       },
       "goldenTrajectorySha256": "450db11717585e8f6dc55a7cdd0dab5f180e07db6cff0611d8defd6fa531c83f",
-      "invalidCounterTrajectorySha256": "91cf6ab98cd88fc7fde0f520af0f8694ebe724c7925adbb0e6c30a58d45f90ec",
+      "invalidCounterTrajectorySha256": "82801de401a61592b0b242db465eaa70d352640b29f21a26d6d6e024d5da2ebe",
       "correctedTrajectorySha256": "450db11717585e8f6dc55a7cdd0dab5f180e07db6cff0611d8defd6fa531c83f",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4211,6 +4259,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4227,19 +4276,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810042b",
+                "id": "c810042x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-511\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-511\",\"fragile\":true,\"weight\":\"14\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810042b",
-            "content": "sealed:LOT-511"
+            "tool_call_id": "c810042x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4301,7 +4350,7 @@
         ]
       },
       "goldenTrajectorySha256": "a022831c885ed617b99dd8fdb7b948bbe046bb0d44522c737d78b039b841371e",
-      "invalidCounterTrajectorySha256": "b593d35ca11e77a33ead91d58bd184530833e4ba0a33c7f9fad4b3f3eee17988",
+      "invalidCounterTrajectorySha256": "4c519185dd10d18e5cc49f69200ebf52ce55e41f77d15368a9fa9194a190d302",
       "correctedTrajectorySha256": "a022831c885ed617b99dd8fdb7b948bbe046bb0d44522c737d78b039b841371e",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4311,6 +4360,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4327,19 +4377,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810043b",
+                "id": "c810043x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-512\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-512\",\"fragile\":false,\"weight\":\"15\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810043b",
-            "content": "sealed:LOT-512"
+            "tool_call_id": "c810043x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4401,7 +4451,7 @@
         ]
       },
       "goldenTrajectorySha256": "4acad551f39181f4225b0a33d408de3097a6f8d8a19c4597d0ddf59c2707e690",
-      "invalidCounterTrajectorySha256": "35d6a4ddc78208e0dbea5893d0fedfc80f7767a47b159c9c2d61e6110602fec1",
+      "invalidCounterTrajectorySha256": "625c5b0adbaf2da67d16c6e619734ad638e2e3d99ef62db8987efe0072052112",
       "correctedTrajectorySha256": "4acad551f39181f4225b0a33d408de3097a6f8d8a19c4597d0ddf59c2707e690",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4411,6 +4461,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4427,19 +4478,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810044b",
+                "id": "c810044x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-513\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-513\",\"fragile\":true,\"weight\":\"16\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810044b",
-            "content": "sealed:LOT-513"
+            "tool_call_id": "c810044x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4501,7 +4552,7 @@
         ]
       },
       "goldenTrajectorySha256": "9f56842e8a67938063977151bd8b22fbd5643416e983665a32fdb675acb0637d",
-      "invalidCounterTrajectorySha256": "ce772c843b60f9473f9da680e104c921f884d64afd627b49397999dcf0504ee9",
+      "invalidCounterTrajectorySha256": "ab6e1205ccc0073c3d3b5b1f45b056466b2ceb365cac73efb2027c6ce90f34e7",
       "correctedTrajectorySha256": "9f56842e8a67938063977151bd8b22fbd5643416e983665a32fdb675acb0637d",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4511,6 +4562,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4527,19 +4579,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810045b",
+                "id": "c810045x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-514\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-514\",\"fragile\":false,\"weight\":\"17\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810045b",
-            "content": "sealed:LOT-514"
+            "tool_call_id": "c810045x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4601,7 +4653,7 @@
         ]
       },
       "goldenTrajectorySha256": "e5289608099f3fb714784bda7fa833bfe20b4b8eb1fd296ebbc1ab5434164837",
-      "invalidCounterTrajectorySha256": "756fd08628b74b530564de198874ba36f0f90a99bbd3d782dffcb6d6788e0cca",
+      "invalidCounterTrajectorySha256": "26dcd3cdd5fc1fa8fda6dbe0ed6707bc9ac2885783d73f7d0fbe11af9ac370b1",
       "correctedTrajectorySha256": "e5289608099f3fb714784bda7fa833bfe20b4b8eb1fd296ebbc1ab5434164837",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4611,6 +4663,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4627,19 +4680,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810046b",
+                "id": "c810046x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-515\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-515\",\"fragile\":true,\"weight\":\"18\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810046b",
-            "content": "sealed:LOT-515"
+            "tool_call_id": "c810046x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4701,7 +4754,7 @@
         ]
       },
       "goldenTrajectorySha256": "d04f7f72abde715c1a4cda2b54ed15278642f323d07f07fda2bff22930b4b1d5",
-      "invalidCounterTrajectorySha256": "a3abf35ec07ed1f64c6835de1d5c69f45e1cab8f80b4d614975eb89b0497bd0d",
+      "invalidCounterTrajectorySha256": "418166a96aa2380f5ca6c179f65677ce8eef95cf807e875e4ac92d94b824bb92",
       "correctedTrajectorySha256": "d04f7f72abde715c1a4cda2b54ed15278642f323d07f07fda2bff22930b4b1d5",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4711,6 +4764,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4727,19 +4781,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810047b",
+                "id": "c810047x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-516\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-516\",\"fragile\":false,\"weight\":\"19\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810047b",
-            "content": "sealed:LOT-516"
+            "tool_call_id": "c810047x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4801,7 +4855,7 @@
         ]
       },
       "goldenTrajectorySha256": "c2790d00f6629de60a240abc46f5febe74490fdd8bad91b134b9de97937f2c10",
-      "invalidCounterTrajectorySha256": "5edcfe6fc5622afcac1a672bbb0ec502a76558773eaeab18c1e78486f48a0c3c",
+      "invalidCounterTrajectorySha256": "3cd82b34cd8a2253564736e4c86d5ac385e36a81d6569da75cff778c5ab18770",
       "correctedTrajectorySha256": "c2790d00f6629de60a240abc46f5febe74490fdd8bad91b134b9de97937f2c10",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4811,6 +4865,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4827,19 +4882,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810048b",
+                "id": "c810048x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-517\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-517\",\"fragile\":true,\"weight\":\"20\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810048b",
-            "content": "sealed:LOT-517"
+            "tool_call_id": "c810048x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -4901,7 +4956,7 @@
         ]
       },
       "goldenTrajectorySha256": "40fd5278e91bf5293d09e2383d37f87be53115666488f5be2e33046acf379733",
-      "invalidCounterTrajectorySha256": "4b398ad462ed03012c78aa3787113e34988aa0d860d7f2b27bd23d543b7d95ae",
+      "invalidCounterTrajectorySha256": "1350edbea9eb6cdfc3fd7860011a2478846d4120e848f515c6f795d413b5d429",
       "correctedTrajectorySha256": "40fd5278e91bf5293d09e2383d37f87be53115666488f5be2e33046acf379733",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -4911,6 +4966,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -4927,19 +4983,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810049b",
+                "id": "c810049x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-518\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-518\",\"fragile\":false,\"weight\":\"21\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810049b",
-            "content": "sealed:LOT-518"
+            "tool_call_id": "c810049x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5001,7 +5057,7 @@
         ]
       },
       "goldenTrajectorySha256": "126806c4ac61633fff521e17029b5b31c0c4768c2e05353b794b102056df129d",
-      "invalidCounterTrajectorySha256": "bec762ce1c70537b3bf310a40e8dca3f7d3d86acaefeff546657d431f1fd37c1",
+      "invalidCounterTrajectorySha256": "57d72b5465143cb88ef6cd78937d89d57eb69f074992a5857c5042733e760335",
       "correctedTrajectorySha256": "126806c4ac61633fff521e17029b5b31c0c4768c2e05353b794b102056df129d",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5011,6 +5067,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5027,19 +5084,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810050b",
+                "id": "c810050x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-519\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-519\",\"fragile\":true,\"weight\":\"22\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810050b",
-            "content": "sealed:LOT-519"
+            "tool_call_id": "c810050x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5101,7 +5158,7 @@
         ]
       },
       "goldenTrajectorySha256": "8dfec32c83c82b0b9fb226c80f4bef66518b9734d3616566798bb5165209ddcf",
-      "invalidCounterTrajectorySha256": "d955f71bc5714d07a4df6bd60c09730429cb5472e039afffdb88d44b7b4796fd",
+      "invalidCounterTrajectorySha256": "4e12eb7eb084c7d03a6c2676c1a20447de2dfa538dc720473d2ff8f36bcddb3c",
       "correctedTrajectorySha256": "8dfec32c83c82b0b9fb226c80f4bef66518b9734d3616566798bb5165209ddcf",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5111,6 +5168,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5127,19 +5185,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810051b",
+                "id": "c810051x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-520\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-520\",\"fragile\":false,\"weight\":\"23\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810051b",
-            "content": "sealed:LOT-520"
+            "tool_call_id": "c810051x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5201,7 +5259,7 @@
         ]
       },
       "goldenTrajectorySha256": "65b4f634f4031fe08c77433d8fed409a84625761adfd35b8c262656405d4749d",
-      "invalidCounterTrajectorySha256": "1d6d31bbc476b6ad5d30c9b1ffd6f0100dc2c76312914b39e78e9e06ca86b103",
+      "invalidCounterTrajectorySha256": "76725dff81e85df458c404ddb62070ff59807f14f6fdf5942521c56de06393aa",
       "correctedTrajectorySha256": "65b4f634f4031fe08c77433d8fed409a84625761adfd35b8c262656405d4749d",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5211,6 +5269,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5227,19 +5286,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810052b",
+                "id": "c810052x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-521\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-521\",\"fragile\":true,\"weight\":\"24\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810052b",
-            "content": "sealed:LOT-521"
+            "tool_call_id": "c810052x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5301,7 +5360,7 @@
         ]
       },
       "goldenTrajectorySha256": "34a4e145bd87b04a451acb1f84da8b7cc8044b7a28eb7766f0b62f04ec2a0924",
-      "invalidCounterTrajectorySha256": "31c300d047ce1f5a30ed343d6315375d27a7dbffc2e2d842b8fc1db435cd94ab",
+      "invalidCounterTrajectorySha256": "6b5290e984642bd62e8ac39d32819536c4e12d3b8de26a61d2ab9a711671ca9b",
       "correctedTrajectorySha256": "34a4e145bd87b04a451acb1f84da8b7cc8044b7a28eb7766f0b62f04ec2a0924",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5311,6 +5370,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5327,19 +5387,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810053b",
+                "id": "c810053x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-522\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-522\",\"fragile\":false,\"weight\":\"25\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810053b",
-            "content": "sealed:LOT-522"
+            "tool_call_id": "c810053x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5401,7 +5461,7 @@
         ]
       },
       "goldenTrajectorySha256": "c1b75badea07cac94733faf54fa32b86f50aeb7408798452d7af5cae6ac131a4",
-      "invalidCounterTrajectorySha256": "e2da4e65ec3b2668d5df8d01d3099702571652a3005dec2474fa2abb0720775d",
+      "invalidCounterTrajectorySha256": "fdf70402be5fbcab37a7b5aeb791f0dd42203e8dfebf6b30d7971ab24232547b",
       "correctedTrajectorySha256": "c1b75badea07cac94733faf54fa32b86f50aeb7408798452d7af5cae6ac131a4",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5411,6 +5471,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5427,19 +5488,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810054b",
+                "id": "c810054x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-523\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-523\",\"fragile\":true,\"weight\":\"26\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810054b",
-            "content": "sealed:LOT-523"
+            "tool_call_id": "c810054x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5501,7 +5562,7 @@
         ]
       },
       "goldenTrajectorySha256": "7422d99fb95df5d7a285c34733b656f430641f07357930c5233094356980f692",
-      "invalidCounterTrajectorySha256": "741ea94cc89781b5c8ded1d2048724ef92e4e1b3c2396b6959684ce8340882fb",
+      "invalidCounterTrajectorySha256": "cfaee16c9449f29cd6b8dbff8a8d5466a43b07540ee972d0d7e63dbf72de33d2",
       "correctedTrajectorySha256": "7422d99fb95df5d7a285c34733b656f430641f07357930c5233094356980f692",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5511,6 +5572,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5527,19 +5589,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810055b",
+                "id": "c810055x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-524\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-524\",\"fragile\":false,\"weight\":\"27\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810055b",
-            "content": "sealed:LOT-524"
+            "tool_call_id": "c810055x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5601,7 +5663,7 @@
         ]
       },
       "goldenTrajectorySha256": "c8800b0f997835340b87f743bacd30b540bc728dbd65cdee610f0b047b309d92",
-      "invalidCounterTrajectorySha256": "29f955de59d50646ce417ac7c57d792ea2baf89a3296ec97c30945652e8618f0",
+      "invalidCounterTrajectorySha256": "33a02ef1d2e3b465de2bc49360260a420ce00e5982c7389358288e6e72ae4685",
       "correctedTrajectorySha256": "c8800b0f997835340b87f743bacd30b540bc728dbd65cdee610f0b047b309d92",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5611,6 +5673,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5627,19 +5690,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810056b",
+                "id": "c810056x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-525\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-525\",\"fragile\":true,\"weight\":\"28\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810056b",
-            "content": "sealed:LOT-525"
+            "tool_call_id": "c810056x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5701,7 +5764,7 @@
         ]
       },
       "goldenTrajectorySha256": "d06eecf5e5cb86f0f2d083240b3672ae4660924077dfeec9da9a61208eeb0b2e",
-      "invalidCounterTrajectorySha256": "620d9896c941f70f7cc5ad954b1eb9c7c862744c43b13a42dfc7bb2f6737df61",
+      "invalidCounterTrajectorySha256": "20e71558b1f2880c1b8259b93b39164235fc429d41363002e3594ad2e375311a",
       "correctedTrajectorySha256": "d06eecf5e5cb86f0f2d083240b3672ae4660924077dfeec9da9a61208eeb0b2e",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5711,6 +5774,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5727,19 +5791,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810057b",
+                "id": "c810057x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-526\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-526\",\"fragile\":false,\"weight\":\"29\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810057b",
-            "content": "sealed:LOT-526"
+            "tool_call_id": "c810057x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5801,7 +5865,7 @@
         ]
       },
       "goldenTrajectorySha256": "6da26d27c5c0c717f182375da3e86d4ec37a20abb8d27a6c69b0e1d4ab010a99",
-      "invalidCounterTrajectorySha256": "b26009fe7a3fbaf45e68b58ae8c05518586c48d0f0772d46bc8fca5f9bb3beb9",
+      "invalidCounterTrajectorySha256": "62f562855ce928119317850706142510b167ac2e175911de0ccaf322cea8dcd6",
       "correctedTrajectorySha256": "6da26d27c5c0c717f182375da3e86d4ec37a20abb8d27a6c69b0e1d4ab010a99",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5811,6 +5875,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5827,19 +5892,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810058b",
+                "id": "c810058x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-527\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-527\",\"fragile\":true,\"weight\":\"30\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810058b",
-            "content": "sealed:LOT-527"
+            "tool_call_id": "c810058x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -5901,7 +5966,7 @@
         ]
       },
       "goldenTrajectorySha256": "315946c62c05d8a26ddf36509763dea71cf15624d8f6dc7d27265fa67d3264dd",
-      "invalidCounterTrajectorySha256": "75e13b656aaba2f689c2c31ab2066e047f27c160d56c81f41430e3ee22ee1ccf",
+      "invalidCounterTrajectorySha256": "7d5f3683e81bf5cad8eb35019a214ffba5cbae1a5bfc395c5e6539a7da25fe98",
       "correctedTrajectorySha256": "315946c62c05d8a26ddf36509763dea71cf15624d8f6dc7d27265fa67d3264dd",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -5911,6 +5976,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -5927,19 +5993,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810059b",
+                "id": "c810059x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-528\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-528\",\"fragile\":false,\"weight\":\"31\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810059b",
-            "content": "sealed:LOT-528"
+            "tool_call_id": "c810059x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -6001,7 +6067,7 @@
         ]
       },
       "goldenTrajectorySha256": "9da8c4a26d5c928be970f9e27cd2703f07e94e81b07068c092fbdbc02a383d86",
-      "invalidCounterTrajectorySha256": "a45f6347a9df3a0db0269861194206783b39ca4f01759a3eb204e1d5674a165e",
+      "invalidCounterTrajectorySha256": "e99e6f71cfbec8380ccffd5fabc62f6dde1455acfd37a7f7aeb2fa32f94689c8",
       "correctedTrajectorySha256": "9da8c4a26d5c928be970f9e27cd2703f07e94e81b07068c092fbdbc02a383d86",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -6011,6 +6077,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6027,19 +6094,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810060b",
+                "id": "c810060x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-529\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-529\",\"fragile\":true,\"weight\":\"32\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810060b",
-            "content": "sealed:LOT-529"
+            "tool_call_id": "c810060x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -6101,7 +6168,7 @@
         ]
       },
       "goldenTrajectorySha256": "c7fc530b71f2d93cfd8ad9ca103b2d1f6489f8e3238b33842658ac9b6b810ca7",
-      "invalidCounterTrajectorySha256": "dff9099a8c1b42ed96c28c7083db8530479297f3b1d0c23f110e1fc9eeb9e978",
+      "invalidCounterTrajectorySha256": "d669fe5b9e783f0919c6766c1df86223bb095af4fde12ee7aa0c7fd7eee83e71",
       "correctedTrajectorySha256": "c7fc530b71f2d93cfd8ad9ca103b2d1f6489f8e3238b33842658ac9b6b810ca7",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -6111,6 +6178,7 @@
       "families": [
         "nested_strict_types"
       ],
+      "errorCategory": "nested_type_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6127,19 +6195,19 @@
             "content": "",
             "tool_calls": [
               {
-                "id": "c810061b",
+                "id": "c810061x",
                 "type": "function",
                 "function": {
-                  "name": "seal_envelope",
-                  "arguments": "{\"id\":\"LOT-530\"}"
+                  "name": "prepare_envelope",
+                  "arguments": "{\"envelope\":{\"batch\":\"LOT-530\",\"fragile\":false,\"weight\":\"33\"}}"
                 }
               }
             ]
           },
           {
             "role": "tool",
-            "tool_call_id": "c810061b",
-            "content": "sealed:LOT-530"
+            "tool_call_id": "c810061x",
+            "content": "invalid nested type"
           },
           {
             "role": "assistant",
@@ -6201,7 +6269,7 @@
         ]
       },
       "goldenTrajectorySha256": "0b226b428d17eba75d4af241020c36269fe591da7820a47308dc04d888c3f4d9",
-      "invalidCounterTrajectorySha256": "fabbd3bd02c6b76871e768e0cff6b3e181a17d0a69b57be73ec17e71df4fc6e4",
+      "invalidCounterTrajectorySha256": "5db968ae5c583b653a30df3ac795f999924f695cfa0b1a0f4fce9da00fd0e966",
       "correctedTrajectorySha256": "0b226b428d17eba75d4af241020c36269fe591da7820a47308dc04d888c3f4d9",
       "invalidRejected": true,
       "correctedAccepted": true
@@ -6211,6 +6279,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6330,6 +6399,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6449,6 +6519,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6568,6 +6639,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6687,6 +6759,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6806,6 +6879,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -6925,6 +6999,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7044,6 +7119,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7163,6 +7239,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7282,6 +7359,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7401,6 +7479,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7520,6 +7599,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7639,6 +7719,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7758,6 +7839,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7877,6 +7959,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -7996,6 +8079,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8115,6 +8199,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8234,6 +8319,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8353,6 +8439,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8472,6 +8559,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8591,6 +8679,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8710,6 +8799,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8829,6 +8919,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -8948,6 +9039,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9067,6 +9159,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9186,6 +9279,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9305,6 +9399,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9424,6 +9519,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9543,6 +9639,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9662,6 +9759,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9781,6 +9879,7 @@
       "families": [
         "sequential_dependency"
       ],
+      "errorCategory": "tool_order_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -9900,6 +9999,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10013,6 +10113,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10126,6 +10227,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10239,6 +10341,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10352,6 +10455,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10465,6 +10569,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10578,6 +10683,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10691,6 +10797,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10804,6 +10911,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -10917,6 +11025,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11030,6 +11139,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11143,6 +11253,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11256,6 +11367,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11369,6 +11481,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11482,6 +11595,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11595,6 +11709,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11708,6 +11823,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11821,6 +11937,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -11934,6 +12051,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12047,6 +12165,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12160,6 +12279,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12273,6 +12393,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12386,6 +12507,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12499,6 +12621,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12612,6 +12735,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12725,6 +12849,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12838,6 +12963,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -12951,6 +13077,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -13064,6 +13191,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -13177,6 +13305,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
@@ -13290,6 +13419,7 @@
       "families": [
         "multi_tool_atomic"
       ],
+      "errorCategory": "atomic_parallel_violation",
       "hasGoldenTrajectory": true,
       "hasInvalidCounterTrajectory": true,
       "hasCorrectedTrajectory": true,
